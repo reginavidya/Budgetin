@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/transaksiFragment">
+
+    <fragment
+        android:id="@+id/transaksiFragment"
+        android:name="org.d3ifcool.budgetin.ui.catatan.TransaksiFragment"
+        android:label="fragment_transaksi"
+        tools:layout="@layout/fragment_transaksi" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/statistikFragment"
+        android:name="org.d3ifcool.budgetin.ui.StatistikFragment"
+        android:label="fragment_statistik"
+        tools:layout="@layout/fragment_statistik" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="org.d3ifcool.budgetin.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

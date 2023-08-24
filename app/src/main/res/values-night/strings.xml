@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budgetin</string>
+    <string name="user_name">Nama: </string>
+    <string name="profile">Profile</string>
+    <string name="statistika">Statistika</string>
+    <string name="catatan">Catatan</string>
+    <string name="ket_pemasukkan">Total Pemasukan</string>
+    <string name="ket_pengeluaran">Uang Tersisa</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="confirm_password">Konfirmasi Sandi</string>
+    <string name="signed">signed</string>
+    <string name="already_have_an_account_login">already have an account</string>
+    <string name="login">Masuk</string>
+    <string name="don_t_have_an_account_sign_in">don\'t have an account</string>
+    <string name="login_text">Sudah  punya akun? <u>Masuk</u></string>
+    <string name="lupa_sandi">Lupa sandi?</string>
+    <string name="atau">Atau</string>
+    <string name="logout">Keluar</string>
+    <string name="defaultWebClientId">762606644582-dt2npcmsio940ks7ht79nnnjhno8a60s.apps.googleusercontent.com</string>
+    <string name="login_google">Sign in with Google</string>
+    <string name="about">Tentang</string>
+    <string name="judul_fitur">Tentang Aplikasi</string>
+    <string name="deskripsi">Aplikasi budgetin berisi tentang laporan keuangan seperti catatan pengeluaran dan
+        pemasukkan disertai dengan visualisasi yang sesuai dan terdapat juga riwayat keuangan.Selain itu, pada aplikasi ini tersedia money tracker
+        sesuai catatan dari pengguna. </string>
+    <string name="transaksi1">Pemasukan</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="describe">Deskripsi</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Beranda</string>
+    <string name="tambah_data">Tambah data</string>
+    <string name="lihat_saran">Refresh</string>
+    <string name="add_device">Add Device</string>
+    <string name="update_room">Update Room</string>
+    <string name="no_data_available">Belum ada data</string>
+    <string name="notif_title">Check-In Tel-U</string>
+    <string name="notif_message">Check-in sekarang agar kesehatanmu terpantau! </string>
+    <string name="notif_channel_id" translatable="false">reminder</string>
+    <string name="notif_channel_name">Reminder</string>
+    <string name="notif_channel_desc">Reminder check-in tiap beberapa jam. </string>
+    <string name="news_channel_id" translatable="false">news</string>
+    <string name="news_channel_name">Pengumuman</string>
+    <string name="news_channel_desc">Pengumuman penting terkait kampus.</string>
+    <string name="handle_notification_now">Notifikai Handler</string>
+</resources>
